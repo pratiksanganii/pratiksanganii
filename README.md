@@ -55,10 +55,7 @@ I am a **Full Stack DevOps Engineer & System Architect** specializing in scalabl
 ---
 
 ### 📈 GitHub Statistics & Activity
-
-| Stats Card | Most Used Languages |
-| :---: | :---: |
-| ![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratiksanganii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=10b981&text_color=94a3b8&icon_color=10b981) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksanganii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=10b981&text_color=94a3b8) |
+![Pratik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratiksanganii&theme=tokyonight&hide_border=true&background=0f172a&fire=10b981&ring=10b981)
 
 ---
 
