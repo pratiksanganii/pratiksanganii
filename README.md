@@ -65,4 +65,4 @@ I am a **Full Stack DevOps Engineer & System Architect** specializing in scalabl
 ### 📫 Connect with Me
 *   🌐 **Portfolio Website:** [pratiksangani.com](https://pratiksangani.com)
 *   💼 **LinkedIn:** [linkedin.com/in/pratiksanganii](https://www.linkedin.com/in/pratiksanganii/)
-*   📺 **YouTube Channel:** [@growwithdips](https://www.youtube.com/@pratiksanganii)
+*   📺 **YouTube Channel:** [@pratiksanganii](https://www.youtube.com/@pratiksanganii)
